@@ -1,3 +1,3 @@
-# Celestial Diary
+# Introduction
 
-This project aims to make a history number one diary application.
+Ten thousand years ago, we had an idea. This is the idea.
