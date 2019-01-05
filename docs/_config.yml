@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 title: [Celestial Diary]
 description: [A short description of your site's purpose]
+show_downloads: ["true"]
